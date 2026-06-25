@@ -1,35 +1,44 @@
 # Financial Literacy Program Access as Predictor of County-Level Mortgage Debt Delinquency
 
+![Project Banner](https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Clever+Penguin+ML+Research)  
+*(Replace with your own banner image later)*
+
 **Independent Machine Learning Research**  
 **Author:** Sree Dhanvin Reddy Chintakunta 
-**Founder & Executive Director, Clever Penguin *** 
-**Status:** Ongoing (Summer 2026 – NCSEF 2027 Target)
+**Founder & Executive Director, Clever Penguin 501(c)(3)**  
+**Summer 2026 | Targeting NCSEF 2027 & SSRN Preprint**
 
-## Project Overview
-This computational social science project examines whether county-level access to financial literacy programs explains additional variance in mortgage debt delinquency rates in North Carolina beyond median household income.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Key Result**: Adding a novel financial literacy access score improves model performance by **+15.1%** explained variance (R²: 0.2767 → 0.4281).
+## Overview
+This computational social science project uses machine learning regression to test whether county-level **financial literacy program access** explains additional variance in mortgage debt delinquency rates in North Carolina beyond median household income.
 
-The research is directly motivated by and informs my work scaling Clever Penguin, a nonprofit delivering hands-on financial education to underprivileged students.
+**Key Result**: The financial literacy access score adds **+15.1 percentage points** to model performance (R² 0.2767 → 0.4281).
 
+The work is tightly integrated with Clever Penguin — my 501(c)(3) nonprofit delivering hands-on financial education — creating a full research-to-action loop.
 
 ## Key Findings
-- Financial literacy program access has statistically and practically significant independent predictive power.
-- Stronger effects observed in rural and mid-income counties.
-- Results strongly support expanding evidence-based interventions like Clever Penguin.
+- Financial literacy program access is a statistically meaningful predictor of lower delinquency rates.
+- Effects are amplified in rural and mid-income counties.
+- Results provide evidence-based support for scaling targeted interventions.
+
+
+## Technologies
+**Python** • **pandas** • **scikit-learn** • **matplotlib** • **Jupyter/Colab**
 
 ## Reproducibility
-All analysis conducted in Python (pandas, scikit-learn, matplotlib). Full data and code provided for complete transparency and reproducibility.
+Fully open and reproducible. Clone the repo and run the notebooks to verify all results.
 
 ## Future Work
-- Advanced models (XGBoost, Random Forest)
-- Panel data and causal inference
-- Integration with participant-level outcomes from Clever Penguin chapters
+- Ensemble methods (Random Forest, XGBoost)
+- Causal inference using instrumental variables
+- Integration with participant-level data from Clever Penguin chapters
 
-## Applications & Impact
-- Target: NCSEF Regional Fair 2027
-- Planned: SSRN preprint submission
-- Direct application to refining and scaling Clever Penguin operations
+## Impact & Applications
+- **Target**: NCSEF Regional Fair (2027), ISEF
+- **Planned**: SSRN preprint
+- **Real-world use**: Directly informing curriculum development and expansion strategy for Clever Penguin
 
-**Contact:** sree.dhanvin@icloud.com 
-**GitHub:** This repository
+**Contact:** sree.dhanvin@icloud.com  
+**Related Project:** Clever Penguin 
