@@ -14,7 +14,7 @@ This computational social science project uses machine learning regression to te
 
 **Key Result**: The financial literacy access score adds **+15.1 percentage points** to model performance (R² 0.2767 → 0.4281).
 
-The work is tightly integrated with Clever Penguin — my 501(c)(3) nonprofit delivering hands-on financial education — creating a full research-to-action loop.
+The work is tightly integrated with Clever Penguin — my  nonprofit delivering hands-on financial education — creating a full research-to-action loop.
 
 ## Key Findings
 - Financial literacy program access is a statistically meaningful predictor of lower delinquency rates.
