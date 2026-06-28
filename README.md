@@ -1,11 +1,9 @@
 # Financial Literacy Program Access as Predictor of County-Level Mortgage Debt Delinquency
 
-![Project Banner](https://via.placeholder.com/800x200/1E3A8A/FFFFFF?text=Clever+Penguin+ML+Research)  
-*(Replace with your own banner image later)*
 
 **Independent Machine Learning Research**  
 **Author:** Sree Dhanvin Reddy Chintakunta 
-**Founder & Executive Director, Clever Penguin 501(c)(3)**  
+**Founder & Executive Director, Clever Penguin**  
 **Summer 2026 | Targeting NCSEF 2027 & SSRN Preprint**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
