@@ -1,9 +1,9 @@
 # Financial Literacy Program Access as a Predictor of County-Level Mortgage Debt Delinquency in North Carolina: A Machine Learning Regression Analysis Beyond Socioeconomic Factors
 
-**Author:** [Your Full Name]  
-**High School Researcher & Founder, Clever Penguin 501(c)(3)**  
+**Author:** Sree Dhanvin Reddy Chintakunta 
+**High School Researcher & Founder, Clever Penguin **  
 **Date:** June 22, 2026  
-**Potential Co-author:** [University of Illinois Professor Name]  
+**Potential Co-author:** TBD
 
 ## Abstract
 This study uses machine learning regression to determine whether county-level access to financial literacy programs explains additional variance in mortgage debt delinquency rates in North Carolina beyond median household income. Using publicly available U.S. Census ACS data, CFPB mortgage performance data, and a novel financial literacy access proxy (0–10 scale based on program density, school initiatives, and nonprofit activity), two linear regression models were developed and compared. Model 1 (income only) achieved an R² of 0.2767. Model 2 (income + FL access) achieved R² = 0.4281, explaining an **additional 15.1%** of variance. Results demonstrate that financial literacy program access has statistically and practically significant independent predictive power, particularly in rural and mid-income counties. These findings have direct implications for scaling evidence-based interventions and directly inform the operations of the author’s registered nonprofit, Clever Penguin. Full reproducible code, data, and visualizations are available on GitHub.
@@ -54,10 +54,7 @@ This is one of the first high-school-led studies to use ML on public data to eva
 ## 7. Conclusion
 By leveraging computational social science, this project demonstrates that targeted financial literacy access can meaningfully improve financial health outcomes beyond what income alone predicts. This work exemplifies how high school researchers can contribute original, policy-relevant insights using publicly available data.
 
-**GitHub:** [Link to your repo]  
+
 **Data & Code:** Fully open and reproducible.
 
-**Word count:** ~4,800 (expand sections with more details as you run real merges).
 
----
-**References** (APA style included in full version)
