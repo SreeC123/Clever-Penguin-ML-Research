@@ -35,7 +35,6 @@ Linear regression with ordinary least squares. All analysis conducted in Python 
 - Model 1 R²: 0.2767
 - Model 2 R²: 0.4281 (**+15.1% additional variance explained**)
 
-[Insert graphs here: income_vs_delinquency.png, fl_access_vs_delinquency.png, model_comparison.png]
 
 The regression coefficient on FL Access Score is negative and significant, indicating that higher program access is associated with meaningfully lower delinquency rates, holding income constant.
 
